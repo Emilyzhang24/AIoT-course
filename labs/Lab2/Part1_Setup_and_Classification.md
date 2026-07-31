@@ -353,7 +353,7 @@ If your installation provides the compiled executable rather than the Python pro
 Open the output image using the Ubuntu file manager:
 
 ```text
-~/jetson-inference/build/aarch64/bin/images/test/classification_orange.jpg
+xdg-open ~/jetson-inference/build/aarch64/bin/images/test/classification_orange.jpg
 ```
 
 Record the result:
