@@ -183,21 +183,6 @@ git rev-parse HEAD
 Commit ID: ______________________________________________
 ```
 
-> [!IMPORTANT]
-> For the course, use the instructor-tested commit or version when one is provided.
->
-> Instructor-tested commit:
->
-> ```text
-> [INSERT TESTED COMMIT HASH BEFORE THE SEMESTER]
-> ```
-
-To use a specified commit, run:
-
-```bash
-git checkout [INSERT_TESTED_COMMIT_HASH]
-```
-
 ---
 
 # Step 3 – Install Required Build Tools
