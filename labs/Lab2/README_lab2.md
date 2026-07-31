@@ -148,5 +148,3 @@ Each group will submit one report containing:
 > [!NOTE]
 > The first execution of a model may take longer because TensorRT may optimize and cache the model. Later executions should start more quickly.
 
-> [!TIP]
-> If a group cannot complete the installation within the time allocated by the instructor, use the instructor-provided backup SD card and continue with the inference activities.
