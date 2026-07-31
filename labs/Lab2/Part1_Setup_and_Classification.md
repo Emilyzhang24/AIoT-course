@@ -1,8 +1,7 @@
 # Lab 2 – Part 1: Jetson-Inference Setup and Image Classification
 
-**Estimated time:** 75 minutes
 
-[Return to the Lab 2 overview](README.md)
+[Return to the Lab 2 overview](README_lab2.md)
 
 ---
 
