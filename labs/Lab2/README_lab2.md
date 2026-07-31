@@ -94,8 +94,8 @@ During the second class, you will:
 
 | Session | Activities |
 |---------|------------|
-| **Class 1 – 75 minutes** | Installation, system verification, and image classification |
-| **Class 2 – 75 minutes** | Object detection, segmentation, pose estimation, and performance analysis |
+| **Class 1** | Installation, system verification, and image classification |
+| **Class 2** | Object detection, segmentation, pose estimation, and performance analysis |
 
 ---
 
