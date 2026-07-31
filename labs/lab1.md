@@ -35,6 +35,8 @@ Each group should have:
 - Power adapter
 - Internet connection
 
+<img width="7347" height="3229" alt="image" src="https://github.com/user-attachments/assets/4029f67d-4c2c-4334-898c-8ed358938d49" />
+
 ---
 
 # Part 1 – Explore the Hardware
