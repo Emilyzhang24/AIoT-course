@@ -45,7 +45,6 @@ The Sony IMX219 CSI camera is connected directly to the Jetson through the Camer
 | **Lab 2** | Real-Time Object Detection on Jetson |
 | **Lab 3** | Efficient AI and Model Optimization |
 | **Lab 4** | TinyML with XIAO ESP32-S3 |
-| **Lab 5** | AIoT System Integration |
 
 ---
 
