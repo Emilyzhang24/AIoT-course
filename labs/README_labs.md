@@ -31,7 +31,7 @@ The Jetson platform provides GPU acceleration for deep learning inference, makin
 
 The Sony IMX219 CSI camera is connected directly to the Jetson through the Camera Serial Interface (CSI). Compared with USB webcams, CSI cameras provide lower latency and better integration with the NVIDIA multimedia pipeline.
 
-![Camera Connection](Lab1_Introduction_to_Edge_AI/images/Jetson_camera.png)
+![Camera Connection](Lab1_Introduction_to_Edge_AI/images/Jetson_camera.jpeg)
 
 **Figure 2.** CSI camera connected to the Jetson platform.
 
