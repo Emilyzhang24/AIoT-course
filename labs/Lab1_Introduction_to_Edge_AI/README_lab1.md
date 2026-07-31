@@ -38,20 +38,24 @@ Each group should have:
 ---
 
 # Part 1 – Explore the Hardware
+## Part 1 – Hardware Overview
 
-Before powering on the system, identify the following interfaces.
+Before powering on the system, identify the following interfaces shown in **Figure 1**.
 
-| Component | Purpose |
-|-----------|---------|
-| HDMI | Display output |
-| USB 3.0 | Keyboard / Mouse |
-| Ethernet | Network connection |
-| CSI Connector | Camera |
-| DC Power | Power input |
-| Wi-Fi Adapter | Wireless networking |
+![Jetson Ports](images/Jetson_ports.png)
+**Figure 1.** External interfaces of the Seeed Studio reComputer.
 
-### Question 1
+| Label | Interface | Function |
+|-------|-----------|----------|
+| 1 | DC Power | Supplies power to the Jetson |
+| 2 | HDMI | Display output |
+| 3 | USB 3.0 | High-speed peripherals |
+| 4 | USB 2.0 | Keyboard and mouse |
+| 5 | Ethernet | Wired network connection |
+| 6 | USB-C | Device interface (if applicable) |
 
+
+### Question 1 
 Why is the CSI camera preferred over a USB webcam for embedded AI applications?
 
 ---
