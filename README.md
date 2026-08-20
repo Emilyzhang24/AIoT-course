@@ -10,7 +10,7 @@ The laboratory exercises introduce the complete AIoT pipeline, from sensing and 
 
 The primary edge computing platform used in this course is the **Seeed Studio reComputer**, powered by the NVIDIA Jetson Nano.
 
-![Jetson Platform](Lab1_Introduction_to_Edge_AI/images/Jetson_board.png)
+![Jetson Platform](labs/Lab1_Introduction_to_Edge_AI/images/Jetson_board.png)
 
 **Figure 1.** The board of Seeed Studio reComputer.
 
