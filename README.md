@@ -1,12 +1,8 @@
 # AIoT-course
-Artificial Intelligence of Things (AIoT)
-
-ECE 4930 / 6930
+ECE 4930 / 6930 Artificial Intelligence of Things (AIoT)
 Department of Electrical & Computer Engineering
 Clemson University
-
-Instructor
-Prof. Lan (Emily) Zhang
+Instructor: Prof. Lan (Emily) Zhang
 
 Labs
 
